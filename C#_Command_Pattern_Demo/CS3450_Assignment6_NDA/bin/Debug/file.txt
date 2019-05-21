@@ -1,0 +1,10 @@
+﻿A one key1 value1
+A one key2 value2
+A two key1 value1
+U one key2 value two
+R one key1 value1
+B
+A three key1 value1
+A three key2 value2
+U three key2 value two
+E
